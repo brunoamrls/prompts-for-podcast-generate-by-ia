@@ -1,13 +1,21 @@
-# 🎙️ Prompts for Podcast Generate by IA
+<h1 align="center">🎙️ Prompts for Podcast Generate by IA</h1>
 
-> Geração de conteúdo para podcasts utilizando Inteligência Artificial
+<p align="center">
+  <em>Geração de conteúdo para podcasts utilizando Inteligência Artificial</em>
+</p>
 
-[![Ouça Agora](https://img.shields.io/badge/🎧_Ouça-Episódio_1-blue?style=for-the-badge)](https://brunoamrls.github.io/prompts-for-podcast-generate-by-ia/episodio1.html)
-[![GitHub Pages](https://img.shields.io/badge/Site-Online-success?style=for-the-badge&logo=github)](https://brunoamrls.github.io/prompts-for-podcast-generate-by-ia/)
+<p align="center">
+  <a href="https://brunoamrls.github.io/prompts-for-podcast-generate-by-ia/episodio1.html">
+    <img src="https://img.shields.io/badge/🎧_Ouça-Episódio_1-blue?style=for-the-badge" alt="Ouça Agora">
+  </a>
+  <a href="https://brunoamrls.github.io/prompts-for-podcast-generate-by-ia/">
+    <img src="https://img.shields.io/badge/Site-Online-success?style=for-the-badge&logo=github" alt="GitHub Pages">
+  </a>
+</p>
 
 ---
 
-## 🎧 Episódio 1 — O que é ser Full Stack?
+<h2 align="center">🎧 Episódio 1 — O que é ser Full Stack?</h2> 
 
 <p align="center">
   <a href="https://brunoamrls.github.io/prompts-for-podcast-generate-by-ia/episodio1.html">
