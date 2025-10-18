@@ -1,0 +1,39 @@
+# =========================
+# Gitignore - Projeto Pod&Dev
+# =========================
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pastas e arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Editor e IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Node ou dependências (caso futuras integrações)
+node_modules/
+dist/
+build/
+
+# Backups do Windows ou do VS Code
+*.old
+~$*
+
+# Arquivos ocultos
+.env
+.env.local
+.env.*.local
+
+# Audacity ou Clipchamp (se houver exportações temporárias)
+*.aup
+*.aup3
+*.sesx
+*.bak
+*.autosave
