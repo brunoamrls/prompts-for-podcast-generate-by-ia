@@ -78,7 +78,8 @@ Este projeto foi desenvolvido como um exercício de **integração entre IA, des
 
 ---
 
-<p align="center">
-  <strong>Desenvolvido por Bruno Amaral</strong><br>
-  <em>"Pod&Dev — Pode e deve aprender, errar e evoluir."</em>
-</p>
+## ✨ Autor
+
+Desenvolvido por **Bruno Amaral de Sousa** como parte da minha jornada de aprendizado nos Fundamentos da IA Generativa.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoamrls/)
