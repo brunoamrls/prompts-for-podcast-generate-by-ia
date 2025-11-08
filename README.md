@@ -1,4 +1,4 @@
-<h1 align="center">🎙️ Prompts for Podcast Generate by IA</h1>
+<h1 align="center">🎙️ Prompts para um Podcast Gerado por IA</h1>
 
 <p align="center">
   <em>Geração de conteúdo para podcasts utilizando Inteligência Artificial</em>
